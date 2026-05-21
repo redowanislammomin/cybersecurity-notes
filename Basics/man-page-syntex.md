@@ -50,4 +50,4 @@ ssh [-i identity_file] [-p port] [user@]hostname
 | `[-f value]` | Optional flag with required value |
 | `a \| b` | Choose one |
 | `...` | Can repeat |
-| `[user@]host` | Partially optional 
+| `[user@]host` | Partially optional |
