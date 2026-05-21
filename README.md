@@ -1,2 +1,2 @@
 # cybersecurity-notes
-This is my persional note for CTF and Lab practice 
+This is my personal note for CTF and Lab practice 
