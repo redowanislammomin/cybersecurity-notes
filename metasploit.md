@@ -1,6 +1,6 @@
 # Metasploit Cheat Sheet
 
-**MSFconsole** 
+## MSFconsole 
 >commonly used
 
 show exploits          # list all exploits
@@ -23,7 +23,7 @@ show advanced          # show advanced options
 
 check                  # check if target is vulnerable
 
-**Setting Values**
+## Setting Values
 >important to know 
 
 set <option> <value>   # set a value (e.g. set LHOST 10.0.0.1)
@@ -34,7 +34,7 @@ set target <number>    # set target OS/platform
 
 set payload <payload>  # set the payload
 
-**Running Exploits** 
+## Running Exploits 
 >first 2 commonly used
 
 exploit                # run the exploit
@@ -45,7 +45,7 @@ exploit -z             # run, don't interact with session
 
 exploit -e <encoder>   # run with specific encoder
 
-**Sessions** 
+## Sessions
 >c = commonly use
 
 sessions -l            # list sessions [c]
@@ -60,7 +60,7 @@ sessions -c <cmd>      # run command on all sessions
 
 sessions -u <id>       # upgrade shell to meterpreter[c]
 
-**Meterpreter**  
+## Meterpreter  
 >commonly used
 
 help                   # show help
