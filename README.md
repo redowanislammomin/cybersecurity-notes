@@ -4,7 +4,7 @@ This is my personal note for CTF and Lab practice
 ## Tools
 
 ## Basic
-- [Man page syntex](Basics/man-page-syntex.md)
+- [Man page syntax](Basics/man-page-syntax.md)
  
 ### Wireshark
 - [Wireshark Notes](wireshark/wireshark.md)
