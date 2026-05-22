@@ -24,7 +24,9 @@ if you wanna match GITHUB : than use
 >git config --global init.defaultBranch main
 
 **git status and log**
+
 ![git command](screenshot/git3.png)
+
 - git log = history . and we use this to see previous commits 
 - git status = what files change. 
 
@@ -44,8 +46,11 @@ for first time you have to set this arg. but after that git push will be enough.
 >only these two (push/pull) commands touch GitHub, everything else is local
 
 **git checkout**
+
 ![git command](screenshot/git4.png)
+
 ![git command](screenshot/git4p1.png)
+
 - git switch -         > go back to previous branch
 - git switch master    > go to specific branch by name
 
