@@ -6,6 +6,7 @@ and this is bare minimum i should learn.
 this set up is in local machine to practice. without git push/ pull it wont effect github account content.
 
 **git set up**
+
 ![git set up](screenshot/git1.png)
 
 **git clone**
