@@ -10,7 +10,7 @@ this set up is in local machine to practice. without git push/ pull it wont effe
 ![git set up](screenshot/git1.png)
 
 **git clone**
-- git clone <url>
+- git clone < url >
 
 we all know abut git clone and used it without knowing it is a git command.
 
