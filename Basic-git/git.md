@@ -50,7 +50,7 @@ for first time you have to set this arg. but after that git push will be enough.
 
 ![git command](screenshot/git4.png)
 
-![git command](screenshot/git4p1.png)
+![git command](screenshot/git4p2.png)
 
 - git switch -         > go back to previous branch
 - git switch master    > go to specific branch by name
