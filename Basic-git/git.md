@@ -62,7 +62,7 @@ for first time you have to set this arg. but after that git push will be enough.
 - switch is like cd but in git .
 - detached HEAD = normal, just means you left the branch
 - git switch - to come back to master ( present github = main)
-- will need this in Bandit 27 and managing big repos later
+- will need this in Bandit 27-31 and managing big repos later
 
 if you wanna remove. just remove dir 
 >rm -rf < dir name >
