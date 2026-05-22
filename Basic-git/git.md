@@ -6,7 +6,7 @@ and this is bare minimum i should learn.
 this set up is in local machine to practice. without git push/ pull it wont effect github account content.
 
 **git set up**
--[git set up](screenshot/git1.png)
+- [git set up](screenshot/git1.png)
 
 **git clone**
 - git clone <url>
@@ -18,13 +18,13 @@ we all know abut git clone and used it without knowing it is a git command.
 - git add .                  >stage everything (. means all files) and keep space between add and .(dot). 
 - git commit -m "my message" >save a snapshot
 
--[git command](screenshot/git2.png)
+- [git command](screenshot/git2.png)
 
 if you wanna match GITHUB : than use 
 >git config --global init.defaultBranch main
 
 **git status and log**
--[git command](screenshot/git3.png)
+- [git command](screenshot/git3.png)
 - git log = history . and we use this to see previous commits 
 - git status = what files change. 
 
@@ -44,8 +44,8 @@ for first time you have to set this arg. but after that git push will be enough.
 >only these two (push/pull) commands touch GitHub, everything else is local
 
 **git checkout**
--[git command](screenshot/git4.png)
--[git command](screenshot/git4.1.png)
+- [git command](screenshot/git4.png)
+- [git command](screenshot/git4p1.png)
 - git switch -         > go back to previous branch
 - git switch master    > go to specific branch by name
 
