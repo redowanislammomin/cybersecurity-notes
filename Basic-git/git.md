@@ -15,9 +15,9 @@ this set up is in local machine to practice. without git push/ pull it wont effe
 we all know abut git clone and used it without knowing it is a git command.
 
  **git command**
-- git init                   >turn any folder into a git repo
-- git add .                  >stage everything (. means all files) and keep space between add and .(dot). 
-- git commit -m "my message" >save a snapshot
+- git init                   > turn any folder into a git repo
+- git add .                  > stage everything (. means all files) and keep space between add and .(dot). 
+- git commit -m "my message" > save a snapshot
 
 ![git command](screenshot/git2.png)
 
