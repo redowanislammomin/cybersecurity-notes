@@ -6,8 +6,8 @@ This is my personal note for CTF and Lab practice
 ### Basic
 - [Man page syntax](Basics/man-page-syntax.md)
  
-### Basic-git
--[Basic-git](Basic-git/git.md)
+### Git
+- [Basic-git](Basic-git/git.md)
 
 ### Wireshark
 - [Wireshark Notes](wireshark/wireshark.md)
