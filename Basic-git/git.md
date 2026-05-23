@@ -80,7 +80,9 @@ You have to set your github username and email you registered github with
 
 after one time set up connection- whenever you make changes just add and commmit 
 >git add .
+
 >git commit -m "update notes / anything "
+
 >git push 
 
 (you have to be in same dir where you make remote connection)
