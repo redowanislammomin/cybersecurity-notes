@@ -67,3 +67,20 @@ for first time you have to set this arg. but after that git push will be enough.
 if you wanna remove. just remove dir 
 >rm -rf < dir name >
 
+## Adding repo to github 
+
+- Create empty repo on GitHub (don't add README)
+- git remote add origin <your repo url> (one time set up connection)
+- git push origin main
+- done — repo is live on your GitHub
+
+**important info**
+
+You have to set your github username and email you registered github with
+
+after one time set up connection- whenever you make changes just add and commmit 
+>git add .
+>git commit -m "update notes / anything "
+>git push 
+
+(you have to be in same dir where you make remote connection)
