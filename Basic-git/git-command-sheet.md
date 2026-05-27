@@ -229,6 +229,4 @@ git check-ignore -v <file>  # Debug why a file is ignored
 | Stash work | `git stash` |
 | View remotes | `git remote -v` |
 
----
 
-*Generated as a quick reference — for full docs visit [git-scm.com/docs](https://git-scm.com/docs)*
