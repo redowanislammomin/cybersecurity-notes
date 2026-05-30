@@ -6,7 +6,7 @@ A quick reference for the most commonly used Git commands.
 
 ## Setup & Config
 
-```
+```bash
 git config --global user.name "Your Name"       # Set your name
 git config --global user.email "you@email.com"  # Set your email
 git config --global core.editor nano            # Set default editor
